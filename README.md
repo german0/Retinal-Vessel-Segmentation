@@ -7,8 +7,8 @@ Following the steps of a research Ricci and Perfetti named "Retinal Blood Vessel
 Furthermore, we compared the results attained with the results attained by employing a SVM (support vector machine). We concluded, as expected, that the SVM achieves better performances in termns of vessel detection accuracy with improvements in feature extraction and pixel-classification.
 
 <p float="left">
-  <img src="/DRIVE/01_test.tif" width="400" />
-  <img src="/DRIVE/output_ricci/01_testbinary_manual.tif" width="400" />
+  <img src="/DRIVE/01_test.tif" width="200" />
+  <img src="/DRIVE/output_ricci/01_testbinary_manual.tif" width="200" />
 </p>
 
 
